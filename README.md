@@ -4,4 +4,4 @@ Node.js、Express.js、MongoDB
 下載壓縮檔後，原資料夾名稱NodeExpress_Blog 改為 node
 於終端機安裝所有依賴
 $ node install package.json
-[image](blog.png)
+[image]([blog.png](https://github.com/huangkuku/NodeExpress_Blog/blob/main/blog.png))
