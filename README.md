@@ -7,8 +7,7 @@ Web Stack: Node.js、Express.js、MongoDB
 1. 下載壓縮檔後，原資料夾名稱NodeExpress_Blog 改為 node
 
 2. 於終端機安裝所有依賴
-
-3. $ node install package.json
+   $ node install package.json
 
 
 ![image](https://github.com/huangkuku/NodeExpress_Blog/blob/main/blog.png)
